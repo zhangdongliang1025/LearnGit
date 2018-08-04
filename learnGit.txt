@@ -1,6 +1,5 @@
 借据，GRP_RECTFORLN_INFApv.ftl
-分户账，信贷GRP_LN_ACCApv.ftl
-贷款管理，GRP_DKXX_Apv.ftl
+GRP_RECTFORLN_INFApv.ftl
 
 客户信息导出。
 
